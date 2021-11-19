@@ -20,7 +20,7 @@
 
   MESSAGES.push({
     delay: 9000,
-    text: "<span>MOU</span> - being であること ecchi エッチ"
+    text: "<span>MOU</span> - being であること retarded エッチ"
   });
 
   MESSAGES.push({
@@ -40,7 +40,7 @@
 
   MESSAGES.push({
     delay: 20000,
-    text: "か <span> KA </span> ばか です か"
+    text: "か <span> KMS </span> ばか です か"
   });
 
   $container = $("#container");
